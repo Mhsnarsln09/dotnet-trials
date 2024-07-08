@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\bin\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.exe
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\bin\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\bin\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\bin\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\bin\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\refint\print-the-total-number-of-words-and-letters-in-a-sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\print-the-total-number-of-words-and-letters-in-a-sentence.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\print-the-total-number-of-words-and-letters-in-a-sentence\obj\Debug\net8.0\ref\print-the-total-number-of-words-and-letters-in-a-sentence.dll
