@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "print-the-numbers-that-are-equal-to-or-divisible-by/1.0.0": {
+        "runtime": {
+          "print-the-numbers-that-are-equal-to-or-divisible-by.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "print-the-numbers-that-are-equal-to-or-divisible-by/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
