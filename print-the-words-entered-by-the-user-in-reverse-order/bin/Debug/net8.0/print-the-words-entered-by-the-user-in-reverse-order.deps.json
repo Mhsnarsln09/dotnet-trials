@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "print-the-words-entered-by-the-user-in-reverse-order/1.0.0": {
+        "runtime": {
+          "print-the-words-entered-by-the-user-in-reverse-order.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "print-the-words-entered-by-the-user-in-reverse-order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
