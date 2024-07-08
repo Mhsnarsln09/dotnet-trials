@@ -1,0 +1,14 @@
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\bin\Debug\net8.0\even-number-print.exe
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\bin\Debug\net8.0\even-number-print.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\bin\Debug\net8.0\even-number-print.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\bin\Debug\net8.0\even-number-print.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\bin\Debug\net8.0\even-number-print.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\refint\even-number-print.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\even-number-print.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet training\even-number-print\obj\Debug\net8.0\ref\even-number-print.dll
