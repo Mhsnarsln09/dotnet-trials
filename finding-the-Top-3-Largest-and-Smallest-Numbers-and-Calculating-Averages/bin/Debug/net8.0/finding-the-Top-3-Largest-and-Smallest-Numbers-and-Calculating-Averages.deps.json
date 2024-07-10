@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "finding-the-Top-3-Largest-and-Smallest-Numbers-and-Calculating-Averages/1.0.0": {
+        "runtime": {
+          "finding-the-Top-3-Largest-and-Smallest-Numbers-and-Calculating-Averages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "finding-the-Top-3-Largest-and-Smallest-Numbers-and-Calculating-Averages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
