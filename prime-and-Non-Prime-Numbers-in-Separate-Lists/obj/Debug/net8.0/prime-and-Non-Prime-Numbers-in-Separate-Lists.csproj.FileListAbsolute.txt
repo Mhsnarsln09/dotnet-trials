@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\bin\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.exe
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\bin\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\bin\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\bin\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\bin\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\refint\prime-and-Non-Prime-Numbers-in-Separate-Lists.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\prime-and-Non-Prime-Numbers-in-Separate-Lists.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\prime-and-Non-Prime-Numbers-in-Separate-Lists\obj\Debug\net8.0\ref\prime-and-Non-Prime-Numbers-in-Separate-Lists.dll
