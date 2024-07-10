@@ -1,0 +1,15 @@
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\bin\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.exe
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\bin\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.deps.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\bin\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.runtimeconfig.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\bin\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\bin\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.AssemblyInfoInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.AssemblyInfo.cs
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.csproj.CoreCompileInputs.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.sourcelink.json
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\refint\finding-and-Sorting-Vowels-in-a-Sentence.dll
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.pdb
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\finding-and-Sorting-Vowels-in-a-Sentence.genruntimeconfig.cache
+C:\Users\muhsi\Desktop\Project\Personal\dotnet-trials\finding-and-Sorting-Vowels-in-a-Sentence\obj\Debug\net8.0\ref\finding-and-Sorting-Vowels-in-a-Sentence.dll

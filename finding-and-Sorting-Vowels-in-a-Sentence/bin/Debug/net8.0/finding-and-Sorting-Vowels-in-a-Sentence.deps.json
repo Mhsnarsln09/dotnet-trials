@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "finding-and-Sorting-Vowels-in-a-Sentence/1.0.0": {
+        "runtime": {
+          "finding-and-Sorting-Vowels-in-a-Sentence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "finding-and-Sorting-Vowels-in-a-Sentence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
